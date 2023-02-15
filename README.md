@@ -1,4 +1,4 @@
-Coleta de dados pluviométrica :+1:
+Coleta de dados pluviométrica :call_me_hand:
 
 Olá pessoal,
 
